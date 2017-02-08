@@ -56,6 +56,7 @@ h2 {
 
 .book {
   height: 150px;
+  margin-bottom: 0px;
 }
 
 .books {
@@ -73,4 +74,75 @@ th {
 
 #description {
   text-align: justify;
+}
+
+.book {
+  height: 150px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+#sidebar {
+  position: fixed;
+  width: 300px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #335146;
+  width: 100px;
+}
+
+.button {
+  padding-top: 50px;
+  size: 100%;
+  text-align: center;
+}
+#sidebar ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+#sidebar li {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    list-style-type: none;
+}
+
+#sidebar a {
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+#social {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.dog {
+  height: 150px;
+}
+
+#table1 {
+  width: 100%;
+  text-align: left;
+}
+
+li {
+  list-style-type: none;
+}
+
+#button1 {
+  background-color: #55CEA2;
+  padding:12px;
+  border-radius: 25px;
+  color: white;
+}
+
+#button1:hover {
+  background-color: #335146;
+}
+
+#spacing {
+  margin-top: 35px;
+  margin-bottom: 20px;
 }
