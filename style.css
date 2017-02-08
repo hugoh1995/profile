@@ -1,0 +1,76 @@
+#name {
+  color: #262626;
+}
+body {
+  background-color: #EFEFEF;
+  font-family: 'Roboto', sans-serif;
+  color: #303030;
+  text-align: center;
+  text-justify: newspaper;
+}
+
+a {
+  color: #303030;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #55CEA2;
+  text-decoration: none;
+}
+
+#dogtime {
+  color: #55CEA2;
+}
+
+h2 {
+  color: #777777;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: white;
+  border-radius: 5px;
+  width: 100%;
+  margin: 10 auto;
+  padding: 25px;
+}
+
+#profile-pic {
+  border-radius: 20px;
+  width: 150px;
+  height: 150px;
+}
+
+/*ul {
+  display: inline;
+}*/
+
+.movie {
+  height: 150px;
+}
+
+.book {
+  height: 150px;
+}
+
+.books {
+}
+
+table {
+  margin: 0 auto
+}
+
+th {
+  padding-right: 5%;
+  padding-left: 5%;
+  margin-right: 50%;
+}
+
+#description {
+  text-align: justify;
+}
